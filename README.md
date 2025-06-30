@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ravi-Kumar-Yadav-24
 - 👀 I’m interested in Coding And Gaming
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig-__raviyadav__0
 - 😄 Pronouns: ...
